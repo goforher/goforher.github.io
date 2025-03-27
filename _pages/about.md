@@ -42,7 +42,6 @@ Beyond research, I actively contribute to open-source projects, explore cutting-
 **Hefei, Anhui, China**  
 
 ## 📞 Contacts  
-- ✉️ **Email:** your.email@example.com  
-- 🔗 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- ✉️ **Email:** feima0523@gmail.com  
+- 🔗 **GitHub:** [github.com/goforher](https://github.com/goforher)  
 - 🎓 **Google Scholar:** [scholar.google.com/yourprofile](https://scholar.google.com/)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/)  
