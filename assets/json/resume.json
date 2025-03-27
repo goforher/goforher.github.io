@@ -255,6 +255,18 @@
         "Natural Language Processing",
         "Reinforcement Learning"
       ]
+    },
+    {
+      "name": "Computer Science",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "Algorithms",
+        "Data Structures",
+        "Software Engineering",
+        "Distributed Systems",
+        "Database Management",
+        "Cloud Computing"
+      ]
     }
   ],
   "references": [
