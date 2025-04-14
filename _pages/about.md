@@ -36,7 +36,7 @@ Beyond research, I actively contribute to open-source projects, explore cutting-
 
 ## 📌 Affiliations  
 - **University of Science and Technology of China (USTC)**  
-- **NInstitute of Advanced Technology**  
+- **Institute of Advanced Technology**  
 
 ## 📍 Address  
 **Hefei, Anhui, China**  
